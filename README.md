@@ -158,7 +158,7 @@ $ sudo service apache2 restart
 1. `$ sudo nano /etc/apache2/sites-available/catalog.conf` to create configuration file
 ```
 <VirtualHost *:80>
-    ServerName [IP ADDRESS],xip.io
+    ServerName [IP ADDRESS].xip.io
     DocumentRoot /var/www/catalog/catalog/
     ServerAdmin admin@[IP ADDRESS]
     WSGIDaemonProcess catalog
