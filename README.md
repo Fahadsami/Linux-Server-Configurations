@@ -199,6 +199,5 @@ Exit psql: \q 10.Exit user postgres: exit
 
 ### References
   -[https://stackoverflow.com/](https://stackoverflow.com/)
-  - GitHub Repositories 
   - [Udacity](https://classroom.udacity.com/me)
   - [Apache Docs](https://httpd.apache.org/docs/)
