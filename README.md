@@ -196,3 +196,9 @@ Exit psql: \q 10.Exit user postgres: exit
 ### Run the Application
 1. `$ nano database_setup.py
 2.  `nano items.py`
+
+### References
+  -[https://stackoverflow.com/](https://stackoverflow.com/)
+  - GitHub Repositories 
+  - [Udacity](https://classroom.udacity.com/me)
+  - [Apache Docs](https://httpd.apache.org/docs/)
