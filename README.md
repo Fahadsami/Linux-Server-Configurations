@@ -198,6 +198,6 @@ Exit psql: \q 10.Exit user postgres: exit
 2.  `nano items.py`
 
 ### References
-  -[https://stackoverflow.com/](https://stackoverflow.com/)
+  -[Stackoverflow](https://stackoverflow.com/)
   - [Udacity](https://classroom.udacity.com/me)
   - [Apache Docs](https://httpd.apache.org/docs/)
